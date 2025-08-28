@@ -71,8 +71,17 @@ What types are Sarah, Bill, and Mae?
 
 (How might we simplify everything?)
 
+Sarah: Bill is a knight
+Bill: Mae is a knight
+Mae tells you, "Bill would tell you that I am a knave."
 
-    
+Suppose Sarah is a Knight. Then from her statement Bill would
+have to be a knight, and from his statement, Mae would have to
+be a knight. Mae's statement would be a lie which is impossible.
+
+Suppose instead Sarah is a knave. Then in  a similar way from the
+statements Bill and Mae would have to be knaves.
+
 
 
 ////////////////////////////////////
@@ -88,6 +97,13 @@ Lion says: "Yesterday was one of my lying days."
 Unicorn says: "Yesterday was one of my lying days, too."
 
 What day is it?
+Cases:
+Sunday:
+No, Lion couldn't say that.
+Tuesday/Friday/Saturday/Wednesday:
+Whoever is lying also lied the day before but should still be lying about it.
+
+
 
 
 
@@ -108,12 +124,8 @@ The second one says: "I'm Tweedledee."
 
 Which is which? What day is it?
 
-
-
-
-
-
-
+Any day but Sunday one lies while one is true
+resulting in the same name.
 
 //////////////////////////////////
 
